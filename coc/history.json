@@ -1,0 +1,25 @@
+{
+  "commands": {
+    "%2FUsers%2Fapollotang": [
+      "rn",
+      "rf"
+    ],
+    "": {
+      "": {
+        "": [
+          "rf"
+        ]
+      }
+    }
+  },
+  "lists": {
+    "%2FUsers%2Fapollotang%2F3%2Fg-subj%2Fg-typescript%2Feh-03-advanced-static-types-in-typescript%2Fwf%2Fwf-node%2Fs%2F01%2F0101-trimAndLower": {
+      "ts": [
+        "j:"
+      ]
+    },
+    "%2FUsers%2Fapollotang": [
+      "diagno"
+    ]
+  }
+}

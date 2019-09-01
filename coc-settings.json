@@ -1,5 +1,29 @@
 {
   "diagnostic.errorSign": ">",
   "diagnostic.infoSign": "i",
-  "diagnostic.hintSign": "h"
+  "diagnostic.hintSign": "h",
+
+
+  // [Note] flow configuration should be enable per project basis:
+  // "tsserver.enableJavascript": false,
+  // "languageserver": {
+  //   "flow": {
+  //     "command": "flow",
+  //     "args": ["lsp"],
+  //     "filetypes": ["javascript", "javascriptreact"],
+  //     "initializationOptions": {},
+  //     "requireRootPattern": true,
+  //     "settings": {},
+  //     "rootPatterns": [".flowconfig"]
+  //   }
+  // },
+
+
+  "eslint.filetypes": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.nodePath": "/Users/apollotang/.nvm/versions/node/v12.7.0/bin/eslint"
 }
