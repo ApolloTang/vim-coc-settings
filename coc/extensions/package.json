@@ -4,10 +4,10 @@
     "coc-tslint-plugin": ">=1.1.1",
     "coc-eslint": ">=1.2.1",
     "coc-json": ">=1.2.3",
-    "coc-prettier": ">=1.1.5",
     "coc-css": ">=1.2.2",
     "coc-highlight": ">=1.2.4",
     "marketplace": ">=0.0.0",
-    "coc-html": ">=1.2.1"
+    "coc-html": ">=1.2.1",
+    "coc-snippets": ">=2.1.11"
   }
 }
