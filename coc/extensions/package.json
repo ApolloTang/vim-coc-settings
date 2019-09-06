@@ -8,6 +8,8 @@
     "coc-highlight": ">=1.2.4",
     "marketplace": ">=0.0.0",
     "coc-html": ">=1.2.1",
-    "coc-snippets": ">=2.1.11"
+    "coc-snippets": ">=2.1.11",
+    "jest-snippets": "https://github.com/andys8/vscode-jest-snippets",
+    "vscode-react-typescript": "https://github.com/infeng/vscode-react-typescript"
   }
 }
