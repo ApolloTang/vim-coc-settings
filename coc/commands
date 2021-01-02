@@ -1,3 +1,8 @@
+prettier.formatFile
+inlineJest.toggle
+tsserver.restart
+jest.projectTest
+editor.action.organizeImport
 snippets.editSnippets
 eslint.createConfig
 document.renameCurrentWord

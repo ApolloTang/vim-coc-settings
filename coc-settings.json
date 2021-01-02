@@ -18,6 +18,15 @@
   //   }
   // },
 
+  // https://github.com/haskell/haskell-language-server/blob/master/README.md#using-haskell-language-server-with-vim-or-neovim
+  "languageserver": {
+    "haskell": {
+      "command": "haskell-language-server-wrapper",
+      "args": ["--lsp"],
+      "rootPatterns": ["*.cabal", "stack.yaml", "cabal.project", "package.yaml", "hie.yaml"],
+      "filetypes": ["haskell", "lhaskell"]
+    }
+  },
 
   "eslint.filetypes": [
     "javascript",
