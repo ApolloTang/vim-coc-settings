@@ -34,5 +34,8 @@
     "typescript",
     "typescriptreact"
   ],
-  "eslint.nodePath": "/Users/apollotang/.nvm/versions/node/v12.7.0/bin/eslint"
+  // "eslint.nodePath": "/Users/apollotang/.nvm/versions/node/v12.7.0/bin/eslint",
+  "eslint.nodePath": null,
+
+  "list.maxPreviewHeight": 50
 }
