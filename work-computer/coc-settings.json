@@ -1,0 +1,46 @@
+{
+  // -------------
+  // Basic setting
+  // -------------
+  // "tsserver.trace.server": "verbose",
+
+  // Diagnostic symbol:
+  "diagnostic.errorSign": ">",
+  "diagnostic.infoSign": "i",
+  "diagnostic.hintSign": "h",
+
+  // Preview window height:
+  "list.maxPreviewHeight": 50,
+
+  // [Note] flow configuration should be enable per project basis:
+  // "tsserver.enableJavascript": false,
+  // "languageserver": {
+  //   "flow": {
+  //     "command": "flow",
+  //     "args": ["lsp"],
+  //     "filetypes": ["javascript", "javascriptreact"],
+  //     "initializationOptions": {},
+  //     "requireRootPattern": true,
+  //     "settings": {},
+  //     "rootPatterns": [".flowconfig"]
+  //   }
+  // },
+
+  // ------
+  // eslint
+  // ------
+  // "eslint.nodePath": "/Users/apollotang/.nvm/versions/node/v12.7.0/bin/eslint",
+  "eslint.nodePath": null,
+
+  // "eslint.debug": true,
+  // "eslint.alwaysShowStatus": true,
+  // "eslint.trace.server": "on",
+
+  // [Note] 'eslint.probe' is previously called 'eslint.filetypes'
+  // "eslint.probe": [
+  //   "javascript",
+  //   "javascriptreact",
+  //   "typescript",
+  //   "typescriptreact"
+  // ],
+}
