@@ -1,8 +1,16 @@
 {
+  // -------------
+  // Basic setting
+  // -------------
+  // "tsserver.trace.server": "verbose",
+
+  // Diagnostic symbol:
   "diagnostic.errorSign": ">",
   "diagnostic.infoSign": "i",
   "diagnostic.hintSign": "h",
 
+  // Preview window height:
+  "list.maxPreviewHeight": 50,
 
   // [Note] flow configuration should be enable per project basis:
   // "tsserver.enableJavascript": false,
@@ -28,14 +36,21 @@
     }
   },
 
-  "eslint.filetypes": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
+  // ------
+  // eslint
+  // ------
   // "eslint.nodePath": "/Users/apollotang/.nvm/versions/node/v12.7.0/bin/eslint",
   "eslint.nodePath": null,
 
-  "list.maxPreviewHeight": 50
+  // "eslint.debug": true,
+  // "eslint.alwaysShowStatus": true,
+  // "eslint.trace.server": "on",
+
+  // [Note] 'eslint.probe' is previously called 'eslint.filetypes'
+  // "eslint.probe": [
+  //   "javascript",
+  //   "javascriptreact",
+  //   "typescript",
+  //   "typescriptreact"
+  // ],
 }
