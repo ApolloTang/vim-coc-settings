@@ -30,7 +30,7 @@
   // eslint
   // ------
   // "eslint.nodePath": "/Users/apollotang/.nvm/versions/node/v12.7.0/bin/eslint",
-  "eslint.nodePath": null,
+  "eslint.nodePath": null
 
   // "eslint.debug": true,
   // "eslint.alwaysShowStatus": true,
